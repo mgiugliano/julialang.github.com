@@ -11,6 +11,9 @@ Julia is ready for the classroom. We encourage instructors to participate in the
 
 Julia is now being used in several universities and online courses. If you know of other classes using Julia for teaching, please [submit a pull request](https://github.com/JuliaLang/julialang.github.com/pulls) to update this list.
 
+- University of Antwerpen, Master in Neuroscience, October 2017
+  * Computational Neuroscience, course of Master of Science (MSc) in Neuroscience ([Michele Giugliano](https://www.uantwerpen.be/popup/opleidingsonderdeel.aspx?catalognr=2070FBDBMW&taal=nl&aj=2017))
+
 - University of Glasgow, School of Mathematics and Statistics, September 2017
   * An Introduction to Julia, course of Online Master of Science (MSc) in Data Analytics ([Theodore Papamarkou](http://www.gla.ac.uk/schools/mathematicsstatistics/staff/theodorepapamarkou/))
 
